@@ -9,7 +9,7 @@ def create_model():
     return None
 
 def count_parameters(model):
-    # your code here
+    # your code heremjjjj
     # return integer number (None is just a placeholder)
     
     return None
